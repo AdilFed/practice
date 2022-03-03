@@ -1,0 +1,6 @@
+What are Soap struture
+
+Envelope must
+header maybe
+body must
+error maybe
